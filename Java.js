@@ -226,4 +226,3 @@ function clickCanvas() {
   startOver();
 
   window.addEventListener('resize',startOver);
-
